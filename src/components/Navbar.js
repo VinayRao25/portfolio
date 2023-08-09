@@ -9,23 +9,23 @@ const links = [
     {
         name: 'Home',
         to: '/',
-        active: 'home'
+        active: 'Home'
     },
     {
         name: 'About Me',
         to: '/about',
-        active: 'about'
+        active: 'About'
     },
     {
         name: info.initials,
         type: 'initials',
         to: '/',
-        active: 'home'
+        active: 'Home'
     },
     {
-        name: 'Portfolio',
+        name: 'Projects',
         to: '/portfolio',
-        active: 'portfolio'
+        active: 'Portfolio'
     }
 ]
 
